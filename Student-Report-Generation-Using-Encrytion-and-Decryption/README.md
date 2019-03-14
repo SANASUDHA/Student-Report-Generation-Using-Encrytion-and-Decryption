@@ -1,5 +1,5 @@
-# Project 1: Student Report Generation
-### by Badulla Shaik
+# Project 3: Student Report Generation using Encryption and Decryption
+### by Sana Sudha
 
 ## What it is and does
 
