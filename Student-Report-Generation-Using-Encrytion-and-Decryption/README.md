@@ -1,4 +1,4 @@
-# Project 3: Student Report Generation using Encryption and Decryption
+# Project 2: Student Report Generation using Encryption and Decryption
 ### by Sana Sudha
 
 ## What it is and does
